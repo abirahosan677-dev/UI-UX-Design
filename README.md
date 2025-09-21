@@ -1,4 +1,5 @@
 Austin, Texas Official Government Website Redesign
+
 Overview
 
 This project presents the UI/UX redesign of the official Austin, Texas government website, created using Figma. The goal was to improve user experience and accessibility while maintaining the website’s functionality for a wide range of government services. The design aims to enhance ease of navigation, streamline access to important resources, and present a modern and visually appealing layout for citizens, businesses, and visitors.
